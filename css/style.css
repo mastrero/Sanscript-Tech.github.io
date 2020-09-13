@@ -1403,6 +1403,15 @@ ol {
 		padding-top: 10px;
 	}
 
+	.footer-widget .fw-titlelinks {
+		text-transform: uppercase;
+		color: #fff;
+		margin-bottom: 25px;
+		margin-left: 60px;
+		padding-top: 10px;
+
+	}
+
 	.footer-widget p,
 	.footer-widget span {
 		color: #b7b7b7;
@@ -2316,9 +2325,16 @@ ol {
 	.fa-facebook-square{
 		font-size: 30px !important;
 	}
-	.fa-google-plus-square{
-		font-size: 30px !important;
-	}
 	.fa-linkedin-square{
 		font-size: 30px !important;
 	}
+	.fa-instagram-square{
+		font-size: 30px !important;
+	}
+	.fa-youtube-square{
+		font-size: 30px !important;
+	}
+	.fa-github-square{
+		font-size: 30px !important;
+	}
+	
