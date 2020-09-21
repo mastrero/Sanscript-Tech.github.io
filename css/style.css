@@ -2337,4 +2337,26 @@ ol {
 	.fa-github-square{
 		font-size: 30px !important;
 	}
+	.imgdiv{
+		text-align: center;
+		margin-top: 7em;
+	}
+	.abouttitle{
+		text-align: center;
+		margin-top: 1em;
+		background-color: #212529;
+		color: #ffffff;
+		padding: 20px;
+		
+	}
+	.aboutinfo{
+		margin-top: 3em;
+		text-align: center;
+	}
+
+	.card:hover{
+		transform: scale(1.05);
+  		box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+	}
+	
 	
