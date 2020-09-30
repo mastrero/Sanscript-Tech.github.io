@@ -17,6 +17,13 @@ section .leftbox{
     padding: 50px;
     box-sizing: border-box;
 }
+section .leftbox:hover{
+    background-image: url(aoss.jpeg);
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px 0;
+}
 section .leftbox .content{
     color: #fff;
     background: rgba(0, 0, 0, 0.5);
@@ -29,7 +36,7 @@ section .leftbox .content:hover{
 section .leftbox .content h1{
     margin: 0;
     padding: 0;
-    font-size: 50px;
+    font-size: 40px;
     text-transform: uppercase;
 }
 section .leftbox .content p{
